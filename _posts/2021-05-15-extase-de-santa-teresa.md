@@ -1,8 +1,6 @@
-#2021-05-15
-
 ---
 layout: post
-Title: O Êxtase de Santa Teresa 
+title: O Êxtase de Santa Teresa 
 ---
 
 Teresinha diz não se preocupar com o número de seguidores. Os quatro milhares de gostos fieis nas múltiplas representações de seus finos traços corporais que o digam. Sempre dignas, diga-se. Há que manter a fama de santa. Que para os dias que correm tornou-se também o proveito, visto que já não tem o famoso êxtase (pelo menos com companhia) desde o único da pandemia. Algumas das suas amigas pregam, que dada a conjuntura, o tinder é mais que aceitável. Mas o desprezo (e até algum nojo) que guardam da única conhecida que de facto o usa prova o contrário - como se a sua simpatia (claramente desesperada) alguma vez compensasse os quilos a mais, as agudas assimetrias faciais ou o seu geral desinteresse. Estava fora de questão. Tinder nunca. Mas os sítios de interação social estavam todos interditos. As festas proibidas. Os bares fechados. As aulas online. Ainda por cima estando o seu corpo num auge nunca antes visto. O sol prevalente nesta sua vigésima segunda primavera deixou-lhe a pele escurecida, aclarou-lhe os cabelos e maturou-lhe os traços corporais. Os finos pulsos (que deixam fechar uma mão à sua volta) repletos de pulseiras orquestravam-lhe a leveza do andar - com ela oscilava a joalharia dourada e esvoaçavam os claros tecidos que suavemente coloridos seguiam o guiar da brisa. Os quarenta dias que tinha de ficar em casa já duravam há mais de um ano. Não é que estivesse farta das longas sessões de leitura ao sol na varanda, dos mergulhos solitários no mar de final de tarde ou dos longínquos passeios que deixavam o seu *border collie* exausto. Já estava era demasiado habituada à busca de carraças no pêlo do cão, aos pores do sol naquele areal, ao cheiro do creme hidrante, e aos devaneios pseudo intelectuais dos grandes autores germânicos. Apesar de adorar estes prazeres sozinha, queria partilhá-los.
