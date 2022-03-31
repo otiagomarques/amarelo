@@ -1,6 +1,7 @@
-2020-00-00-o-punk-nao-morreu
-
-II.O Punk Não Morreu
+---
+layout: post
+title: II.O Punk Não Morreu
+---
 
 Estou outra vez numa fase em que o punk está ressonar de uma forma forte comigo - tão forte que estou a ponderar seriamente cortar e pintar o cabelo de azul. 
 
