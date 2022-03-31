@@ -1,6 +1,7 @@
-2020-02-1-I
-
-I. A Casa Que Me Ofende Os Sentidos
+---
+layout: post
+title: I. A Casa Que Me Ofende Os Sentidos
+---
 
 Não gosto de me queixar deste tipo de coisas. Põe me numa posição de arrogância e alguma inconsciência do luxo que tenho em poder ter este tipo de preocupações. Por isso mesmo sempre achei que era um tipo de pessoa totalmente adaptável a qualquer ambiente - que a minha satisfação era independente do mundo que me rodeia: que podia viver num bairro social, ou numa trincheira, que me sentiria igualmente bem - mas claro que é fácil dizer isto rodeado de beleza e alheado do feio.
 
