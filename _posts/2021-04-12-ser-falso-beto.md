@@ -1,4 +1,7 @@
-IV. Ser (Falso) Beto
+---
+layout: post
+title: IV. Ser (Falso) Beto
+---
 
 Se há coisa totalmente proibida - não pela lei, mas por conduta - é dizer a classe social a que se pertence: qualquer beto deixa imediatamente de o ser a partir do momento em que ousa dizê-lo. Aliás demonstrar qualquer conhecimento da existência de classes sociais é só por si uma forma de suicídio social. E o maior dos tabus é o de evidenciar o próprio tabu. Mas como meu nome é Tiago Manuel e qualquer réstia de esperança em pertencer à classe betocràtica já há muito se desvaneceu, vou arriscar fazê-lo.
 
