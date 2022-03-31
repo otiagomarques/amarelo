@@ -1,6 +1,7 @@
-2020-00-00-eu-vou-morrer
-
-III. Eu Vou Morrer
+---
+layout: post
+title: III. Eu Vou Morrer
+---
 
 Não sei quando. Nem como. Mas é a única coisa que sei. 
 Eu preferiria num acidente - de carro ou de arquitetura - inesperado.
